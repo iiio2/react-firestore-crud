@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 
 const Post = ({ posts, deletePost }) => {
+  if (posts.length === 0) return null;
   return (
     <div className='container'>
       {posts.map((post) => (
