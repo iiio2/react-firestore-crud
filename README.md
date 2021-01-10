@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Website Link: https://pedantic-noether-0bb620.netlify.app/
+Website Link: https://hungry-williams-1e68a6.netlify.app/
 
 ## Available Scripts
 
